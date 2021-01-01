@@ -3,7 +3,7 @@
 ### Aim: 
 To detect the faces and eyes inside the frame
 
-### Major Steps:
+### Major steps involved:
 1.) Importing the required Libraries
 2.) Loading the pre-trained Classifier
 3.) Defining a function which does the detections
