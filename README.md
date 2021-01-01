@@ -3,7 +3,7 @@
 ### Haar Cascade Classifier.
 I've used pretrained Classifiers, i.e haarcascade_frontalface_default.xml (for detecting the face) & haarcascade_eye.xml (for detecting the eyes)
 
-### It all made possible by the following steps:
+### Major Steps:
 1.) Importing the required Libraries
 2.) Loading the pre-trained Classifier
 3.) Defining a function which does the detections
