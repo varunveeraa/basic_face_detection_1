@@ -11,7 +11,7 @@ To detect the faces and eyes inside the frame
 5.) Calling the funtion for detection
 6.) Previewing the live face detected video
 
-### Haar Cascade Classifier
+### Classifiers:
 I've used pretrained Classifiers, i.e haarcascade_frontalface_default.xml (for detecting the face) & haarcascade_eye.xml (for detecting the eyes)
 
 ### End Result:
