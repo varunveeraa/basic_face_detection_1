@@ -15,3 +15,5 @@ To detect the faces and eyes inside the frame
 I've used pretrained Classifiers, i.e haarcascade_frontalface_default.xml (for detecting the face) & haarcascade_eye.xml (for detecting the eyes)
 
 ### End Result:
+<img src="result.png">
+(my neutral face, lol & btw emotion recognision coming soon)
